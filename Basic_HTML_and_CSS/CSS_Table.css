@@ -8,11 +8,11 @@ td:hover {
 }
 
 tr, th {
-	background-color: darkblue;
+	/*-color: darkblue;*/
 	color: white;
 }
 
 tr, td {
-	background-color: lightblue;
-	color: darkblue;
+	/*background-color: lightblue;*/
+	color: red;
 }
