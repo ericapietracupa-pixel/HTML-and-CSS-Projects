@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap'); /*Font SN Pro Imported from fonts.google.com*/
+
+body {
+    font-family: 'SN Pro', sans-serif;
+    font-size: 16px;
+}
+
+/*CONTACT FORM CSS*/
+form{
+    padding: 15px;
+    display: table;
+}
+
+input[type="text"], input[type="email"], input[type="tel"]{
+    font-family: 'SN Pro', sans-serif;
+    width: 225px;
+    border: 1px solid #63788a;
+    border-radius: 2px;
+    padding: 1px;
+    margin: 10px 15px 10px 0px;
+    font-size: 20px;
+}
+
+/*Styles the label tag on the contact form*/
+label{
+    font-family: 'SN Pro', sans-serif;
+    font-size: 20px;
+    margin: 10px;
+}
+
+/*The type selector for the textarea element for a user to 
+write a message*/
+textarea{
+    width: 440px;
+    height: 200px;
+    padding: 12px 20px;
+    border: 1px solid #63788a;
+    border-radius: 4px;
+    font-family: 'SN Pro', sans-serif;
+    font-size: 15px;
+    resize: both;
+}
+
+/*Styles the submit button*/
+input[type="submit"]{
+    background-color: #0a3f63;
+    border: none;
+    border-radius: 5px;
+    font-family: 'SN Pro', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;    
+    cursor: pointer; /*Changes the mouse cursor to a pointer 
+    when hovering over the submit button*/
+    float: right;
+}
+
+/*Changes the background color of the submit button when a 
+user hovers over it*/
+input[type="submit"]:hover{
+    background-color: #052133;
+}
