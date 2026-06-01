@@ -40,7 +40,7 @@ Basic introduction to using Bootstrap 4 with images and Bootstrap heading tag an
 ### [Academy-Cinemas](https://github.com/ericapietracupa-pixel/HTML-and-CSS-Projects/tree/main/Academy-Cinemas)
 This is a one page example website for a movie theater showing 3 different movie posters with times, a ticket selection section and a contact form, it is styled using Bootstrap 5. It contains many Bootstrap components including navbar, cards, form and dropdowns etc.
 
-### Portfolio Website
+### [Portfolio Website](https://github.com/ericapietracupa-pixel/HTML-and-CSS-Projects/tree/main/Erica-Pietracupa-Portfolio-Website)
 This is the final assignment for the CSS and Bootstrap Course. It is a culmination of everything I have learned so far. It is a one page site that uses both HTML and CSS to create a portfolio of my skills, it contains an about section, a link to my GitHub and a contact form section that uses Formspree to send me messages to my email.
 
 Here's a live link to my portfolio site: [click here](https://erica-pietracupa.infinityfree.io/)
